@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Story · 论文叙事"
+  short_description: "从论文证据提炼研究主线，组织摘要、引言与实验，检查贡献边界和替代解释"
+  default_prompt: "请用 $research-story 分析我的研究材料，先核对主张与证据，再提炼 story 并给出引言和关键实验的组织方案。"
